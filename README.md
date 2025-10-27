@@ -15,9 +15,9 @@ This app allows users to **create, view, and delete notes dynamically** — usin
 |----------------|----------------|
 | ![Keeper App 3](./imgg/kee3.png) | ![Keeper App 4](./imgg/kee4.png) |
 
-| 🗒️ Keeper App |   |
-|----------------|---|
-| ![Keeper App 5](./imgg/kee5.png) |   |
+| 🗒️ Keeper App |
+|----------------|
+| ![Keeper App 5](./imgg/kee5.png) |
 
 ---
 
